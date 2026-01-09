@@ -1,0 +1,852 @@
+image_id,true_name,pred_name,pred_conf
+2612067247.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.46233493
+2509869422.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.4346033
+1698435462.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.5669353
+884612746.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.52841
+889645201.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.74103296
+3783039310.jpg,Healthy,Cassava Green Mottle (CGM),0.39390165
+329537170.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8660816
+1959916308.jpg,Healthy,Cassava Bacterial Blight (CBB),0.99311537
+181355439.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.45672074
+4240296796.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5317227
+2681075727.jpg,Cassava Mosaic Disease (CMD),Healthy,0.667378
+1688625660.jpg,Healthy,Cassava Mosaic Disease (CMD),0.99528414
+1657954384.jpg,Cassava Green Mottle (CGM),Healthy,0.63543844
+2840067071.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9414029
+2805717623.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.9732003
+3676238683.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6188761
+1869765535.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.80391395
+4267414655.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.47580948
+2603843630.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.9373892
+3757297104.jpg,Healthy,Cassava Mosaic Disease (CMD),0.6791047
+3456476470.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.66335857
+601096842.jpg,Cassava Green Mottle (CGM),Healthy,0.9080596
+3357188995.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.54413456
+2857776257.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7014646
+291970029.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.5221956
+198179397.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.4756386
+764879606.jpg,Healthy,Cassava Green Mottle (CGM),0.9555598
+2792323624.jpg,Healthy,Cassava Green Mottle (CGM),0.5194227
+190928103.jpg,Cassava Green Mottle (CGM),Healthy,0.56272674
+464249040.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9493448
+612701263.jpg,Cassava Green Mottle (CGM),Healthy,0.75163037
+712488898.jpg,Cassava Mosaic Disease (CMD),Healthy,0.97598207
+3254258817.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.43757898
+2189224346.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.42610767
+3287884137.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.9653081
+3075515456.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.88864607
+676226256.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.4375952
+1737787955.jpg,Cassava Green Mottle (CGM),Healthy,0.70682734
+690368559.jpg,Cassava Green Mottle (CGM),Healthy,0.8269491
+3344412896.jpg,Healthy,Cassava Bacterial Blight (CBB),0.944685
+365488535.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.5196091
+3004362957.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.63077563
+180526120.jpg,Cassava Mosaic Disease (CMD),Healthy,0.58866155
+3307925077.jpg,Cassava Mosaic Disease (CMD),Healthy,0.46497148
+3727711580.jpg,Cassava Bacterial Blight (CBB),Healthy,0.6416499
+3456823667.jpg,Healthy,Cassava Mosaic Disease (CMD),0.45620263
+542786109.jpg,Cassava Green Mottle (CGM),Healthy,0.9684932
+3518716660.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.97368646
+2264163141.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.53952086
+2092842111.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.46931288
+4115513115.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.59843856
+2961976125.jpg,Cassava Mosaic Disease (CMD),Healthy,0.73223126
+4107720653.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.42219314
+3106625505.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5544912
+4192717491.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5160016
+2633056892.jpg,Healthy,Cassava Bacterial Blight (CBB),0.691834
+938751255.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.78676295
+2021948804.jpg,Healthy,Cassava Bacterial Blight (CBB),0.60502106
+1857766258.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.40850833
+300185548.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6155346
+2545893399.jpg,Cassava Green Mottle (CGM),Healthy,0.6371175
+1729836525.jpg,Healthy,Cassava Bacterial Blight (CBB),0.68771327
+3755206002.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.75900483
+2445871851.jpg,Healthy,Cassava Green Mottle (CGM),0.4833792
+3234850846.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7795786
+3504347958.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7060917
+389430257.jpg,Cassava Mosaic Disease (CMD),Healthy,0.67658585
+3788064831.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9731458
+2962857550.jpg,Healthy,Cassava Green Mottle (CGM),0.7457855
+2531474935.jpg,Cassava Mosaic Disease (CMD),Healthy,0.569819
+1502381784.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6962631
+2026618644.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.52429175
+2245464938.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.73101956
+620825319.jpg,Healthy,Cassava Green Mottle (CGM),0.5689387
+4024428406.jpg,Cassava Mosaic Disease (CMD),Healthy,0.47004446
+1034735631.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.74722064
+3215535093.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.5794387
+1046631452.jpg,Cassava Green Mottle (CGM),Healthy,0.47439364
+2934003853.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.4985175
+1700592380.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.32676622
+2667979322.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6647285
+1501728003.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7439354
+2937880643.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.83399844
+3976477069.jpg,Healthy,Cassava Green Mottle (CGM),0.5894041
+3349377732.jpg,Cassava Mosaic Disease (CMD),Healthy,0.61127174
+2801552324.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5331157
+685199622.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5150235
+629637059.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.50969285
+658285764.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.73099816
+1908392634.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.57693565
+3773447905.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.98425907
+1171170982.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8234163
+2086830475.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.44322535
+3408953915.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.52449834
+845869703.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9331519
+832729024.jpg,Healthy,Cassava Mosaic Disease (CMD),0.9979519
+2369756081.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.58035254
+1072157342.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.8778426
+1100247536.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.5997594
+3973759314.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.5365659
+1772260831.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.35671657
+3959033347.jpg,Cassava Bacterial Blight (CBB),Healthy,0.82098156
+259197447.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.29876342
+103776422.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.7185177
+2450090020.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5713196
+3564557522.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.7922017
+4275116781.jpg,Cassava Bacterial Blight (CBB),Healthy,0.5929846
+3338521890.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.6893588
+2494580860.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.49378806
+3028257069.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.51762825
+2337801831.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.8479954
+1711803773.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.9278787
+4009310147.jpg,Cassava Mosaic Disease (CMD),Healthy,0.3776692
+1060644080.jpg,Healthy,Cassava Green Mottle (CGM),0.7260303
+2165052077.jpg,Healthy,Cassava Mosaic Disease (CMD),0.9693749
+2038601042.jpg,Cassava Bacterial Blight (CBB),Healthy,0.42939758
+3831080704.jpg,Healthy,Cassava Green Mottle (CGM),0.41912994
+3024648056.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6648926
+573879422.jpg,Cassava Bacterial Blight (CBB),Healthy,0.811484
+220845966.jpg,Healthy,Cassava Green Mottle (CGM),0.4627783
+218932775.jpg,Cassava Mosaic Disease (CMD),Healthy,0.4226877
+235457255.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6711374
+4113877744.jpg,Healthy,Cassava Bacterial Blight (CBB),0.79260725
+877430309.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.63944036
+663810012.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.42310327
+3713078726.jpg,Cassava Mosaic Disease (CMD),Healthy,0.45089385
+2549275590.jpg,Cassava Mosaic Disease (CMD),Healthy,0.6380883
+4156754691.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5182436
+3655257116.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.7289311
+442172384.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.94245446
+1416145759.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.8112027
+422690051.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.88581914
+4040156841.jpg,Cassava Mosaic Disease (CMD),Healthy,0.52088994
+116466028.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.8092921
+401824702.jpg,Healthy,Cassava Mosaic Disease (CMD),0.56480646
+2202563232.jpg,Healthy,Cassava Bacterial Blight (CBB),0.66725194
+4200872179.jpg,Cassava Bacterial Blight (CBB),Healthy,0.6760282
+1164773152.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7556827
+2265305065.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.83007246
+1870594416.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.934407
+69869891.jpg,Healthy,Cassava Mosaic Disease (CMD),0.9935278
+3384095978.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.4035311
+703096302.jpg,Cassava Green Mottle (CGM),Healthy,0.8290931
+873205488.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8536172
+1279007002.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.4444537
+3909952620.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9994369
+1604513601.jpg,Cassava Mosaic Disease (CMD),Healthy,0.40947285
+686071324.jpg,Healthy,Cassava Bacterial Blight (CBB),0.41928235
+2220309469.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.50948083
+2736497961.jpg,Healthy,Cassava Bacterial Blight (CBB),0.98981464
+599867773.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6599542
+1272381477.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9852055
+1901330627.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.73219436
+2067363667.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.41413376
+571576955.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.6891633
+3645775098.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7503409
+1269866934.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7802265
+425678500.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.49028066
+226485421.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.75172573
+3613383486.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.8907209
+2336286082.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.76509017
+2351670510.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.9494039
+2964319583.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.97260857
+1367013120.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.72379106
+2259345957.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.5207022
+2627504664.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.60354763
+3731008076.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7267014
+2908770842.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.8210301
+1060214168.jpg,Cassava Bacterial Blight (CBB),Healthy,0.77326494
+1400362797.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.3081712
+3878214050.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.86765325
+581749808.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.39314398
+1197890857.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.84502804
+2008117756.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7237606
+2282200395.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.5098163
+2300683900.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.81114733
+3993385288.jpg,Cassava Mosaic Disease (CMD),Healthy,0.3060334
+2149970580.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.34223193
+2927770833.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.39899933
+2627091527.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6934999
+2503555715.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9905241
+1402508321.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.46309415
+3088191583.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.34317815
+266508251.jpg,Cassava Mosaic Disease (CMD),Healthy,0.6847946
+2421154857.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.49800515
+584996062.jpg,Cassava Bacterial Blight (CBB),Healthy,0.36566213
+3511001525.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.37618065
+1881585879.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7386898
+580100046.jpg,Cassava Mosaic Disease (CMD),Healthy,0.6859995
+4214625845.jpg,Healthy,Cassava Mosaic Disease (CMD),0.83071613
+1427678310.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.9492656
+1551047052.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8984201
+1683319632.jpg,Healthy,Cassava Mosaic Disease (CMD),0.7097236
+3772719243.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.93053454
+3712227336.jpg,Healthy,Cassava Mosaic Disease (CMD),0.4801879
+2603943138.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.89902574
+1719304067.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.60470694
+3068895856.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.35996616
+3391940260.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.36286765
+3878495459.jpg,Cassava Mosaic Disease (CMD),Healthy,0.7711811
+3344007463.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.8258441
+464695635.jpg,Healthy,Cassava Bacterial Blight (CBB),0.63318074
+1292410663.jpg,Healthy,Cassava Green Mottle (CGM),0.5362492
+663803096.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.73111355
+1344226593.jpg,Healthy,Cassava Bacterial Blight (CBB),0.54006636
+2526623317.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5259091
+3248325951.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.56264716
+3328736018.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.47616962
+375377758.jpg,Cassava Bacterial Blight (CBB),Healthy,0.3614697
+1549275495.jpg,Healthy,Cassava Green Mottle (CGM),0.7531135
+1169336431.jpg,Healthy,Cassava Bacterial Blight (CBB),0.6599189
+1267453592.jpg,Cassava Mosaic Disease (CMD),Healthy,0.96717316
+942754311.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5172603
+318471258.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.6969919
+483210216.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.8185651
+2086525919.jpg,Cassava Mosaic Disease (CMD),Healthy,0.85026807
+1741967088.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.8535668
+3931881539.jpg,Healthy,Cassava Bacterial Blight (CBB),0.76730853
+1682790213.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.44120705
+1381453836.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.66953623
+2341588461.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6162403
+2231502538.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6416517
+3809163419.jpg,Cassava Bacterial Blight (CBB),Healthy,0.6557612
+646999993.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.51982135
+852177343.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.63780427
+2690070088.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.93784785
+1998622752.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.97267014
+1506855289.jpg,Cassava Green Mottle (CGM),Healthy,0.7245093
+1840283503.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.53960586
+147275298.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.7287814
+1650282539.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.39932364
+541216971.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.86312574
+4234605337.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.81002146
+873753078.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.87799954
+2952187496.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.50855494
+2791918976.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5560267
+2635668715.jpg,Cassava Mosaic Disease (CMD),Healthy,0.34091467
+2338166652.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.4239482
+181653327.jpg,Healthy,Cassava Bacterial Blight (CBB),0.67024285
+4049425598.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.64994943
+3472375086.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9571216
+2095404633.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.38685232
+3693124692.jpg,Cassava Green Mottle (CGM),Healthy,0.6175508
+1522892159.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.46445093
+2914141395.jpg,Healthy,Cassava Bacterial Blight (CBB),0.971474
+3158652079.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9506039
+2742114843.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.77016664
+408698793.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.501008
+4035835394.jpg,Healthy,Cassava Bacterial Blight (CBB),0.38013324
+2795132787.jpg,Healthy,Cassava Green Mottle (CGM),0.5764814
+939153733.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.97599196
+10169000.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.638556
+362383094.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.8815465
+1359969815.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.45180932
+3240436783.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.66851836
+804347789.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.99075705
+1860121418.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.41857353
+1812322752.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.5183948
+851594010.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.89286417
+508678905.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.49332425
+1184986094.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.99989474
+725034194.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.61138415
+58667011.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.6396238
+936438569.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.66663253
+1364435251.jpg,Healthy,Cassava Bacterial Blight (CBB),0.84014726
+83335504.jpg,Cassava Green Mottle (CGM),Healthy,0.83262706
+1870345628.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.61311823
+3492280117.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6001283
+4046068592.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.7821734
+217326166.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.71613014
+3793595797.jpg,Cassava Mosaic Disease (CMD),Healthy,0.40319124
+2016976059.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.7960924
+2333079073.jpg,Healthy,Cassava Bacterial Blight (CBB),0.368564
+1539509654.jpg,Cassava Mosaic Disease (CMD),Healthy,0.81249076
+3837457616.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5222232
+602031471.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.98651296
+3254381404.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.99529773
+1285436512.jpg,Cassava Mosaic Disease (CMD),Healthy,0.58881074
+3218913875.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8051461
+2351141468.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9490085
+532038171.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.9032274
+1012623980.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.52537847
+1783550319.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.8375347
+2632382068.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.79495144
+2069885945.jpg,Cassava Mosaic Disease (CMD),Healthy,0.50438243
+1316173298.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9971246
+1131824490.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.43055332
+1242441980.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.75144655
+3525134748.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.90217555
+943360126.jpg,Cassava Mosaic Disease (CMD),Healthy,0.4969147
+2433057323.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.99540377
+41606397.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.51891
+3308245641.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9996494
+2654097903.jpg,Cassava Bacterial Blight (CBB),Healthy,0.4636343
+1430092169.jpg,Cassava Green Mottle (CGM),Healthy,0.44561535
+1212399275.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5583127
+1430257906.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.9045747
+4122820167.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.38862643
+3135673078.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.39770746
+4200969502.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.4097122
+432656934.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.7879646
+3610554342.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.72001624
+2351483883.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5124587
+1457537356.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.60596025
+2747090144.jpg,Cassava Mosaic Disease (CMD),Healthy,0.6535527
+1149596528.jpg,Healthy,Cassava Mosaic Disease (CMD),0.4409537
+1118064801.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.3644162
+738553844.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8125047
+1982908964.jpg,Healthy,Cassava Bacterial Blight (CBB),0.58095556
+4183847559.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9004183
+2398306504.jpg,Healthy,Cassava Bacterial Blight (CBB),0.87131834
+1057579024.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6556918
+1045989131.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.838818
+1848723275.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.45286635
+2923119977.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.67582417
+2612731695.jpg,Cassava Mosaic Disease (CMD),Healthy,0.68746
+3813128079.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.5626906
+1341694459.jpg,Healthy,Cassava Mosaic Disease (CMD),0.956653
+997973414.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.515373
+2548262231.jpg,Healthy,Cassava Green Mottle (CGM),0.5074853
+362012495.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.50375116
+4252058382.jpg,Cassava Green Mottle (CGM),Healthy,0.90833706
+1396312810.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.7732039
+1768003077.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5496169
+4153074724.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.98741186
+2505046113.jpg,Cassava Bacterial Blight (CBB),Healthy,0.5884086
+2365870613.jpg,Healthy,Cassava Mosaic Disease (CMD),0.56802523
+961915557.jpg,Healthy,Cassava Green Mottle (CGM),0.94790524
+3366388775.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.66935146
+1677019415.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.50067294
+4017387228.jpg,Healthy,Cassava Bacterial Blight (CBB),0.92489254
+484219848.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.50727814
+2765109909.jpg,Healthy,Cassava Bacterial Blight (CBB),0.57879394
+441313044.jpg,Cassava Mosaic Disease (CMD),Healthy,0.48660907
+2955295994.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9182464
+2657169592.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.8719574
+2446074301.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.6373509
+1675758805.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.87418795
+2074036389.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9994086
+2448870532.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.37288672
+4101194273.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.66475254
+3461338622.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7705658
+2210937583.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5298737
+3381887181.jpg,Healthy,Cassava Green Mottle (CGM),0.6798457
+2773629343.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8711875
+3906485843.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.5172229
+680707413.jpg,Healthy,Cassava Mosaic Disease (CMD),0.88415927
+1207142999.jpg,Cassava Bacterial Blight (CBB),Healthy,0.88611794
+25132460.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.5889774
+280102344.jpg,Cassava Green Mottle (CGM),Healthy,0.51543266
+3645241295.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.7045258
+2128581284.jpg,Healthy,Cassava Mosaic Disease (CMD),0.83063155
+4109440762.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.64102244
+3142476527.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5367009
+427331923.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6992735
+3260576372.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.98868716
+2258065803.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5750582
+3141772785.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.54898334
+296985472.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5034006
+3709241873.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.38310492
+2504430507.jpg,Healthy,Cassava Bacterial Blight (CBB),0.78608054
+2703475066.jpg,Cassava Bacterial Blight (CBB),Healthy,0.5273393
+641309732.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.7190051
+4172221636.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.57124895
+4250554784.jpg,Cassava Bacterial Blight (CBB),Healthy,0.66223294
+2977542209.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.36234483
+3934102198.jpg,Cassava Green Mottle (CGM),Healthy,0.95105535
+3386258598.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9275703
+1874752223.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.76280874
+3522543975.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.8632456
+3611460254.jpg,Cassava Mosaic Disease (CMD),Healthy,0.8574283
+1974290297.jpg,Cassava Mosaic Disease (CMD),Healthy,0.8578386
+1722033032.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.96629304
+2247445291.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6149542
+3604550259.jpg,Healthy,Cassava Mosaic Disease (CMD),0.80221206
+1269451212.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6785777
+486370102.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.55095845
+1955463864.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.673474
+807322814.jpg,Cassava Mosaic Disease (CMD),Healthy,0.77804464
+952519185.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.7292904
+2519456872.jpg,Cassava Bacterial Blight (CBB),Healthy,0.76434195
+3547244996.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.795904
+1333580402.jpg,Cassava Bacterial Blight (CBB),Healthy,0.65623075
+4048156987.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.56494796
+1729891245.jpg,Healthy,Cassava Green Mottle (CGM),0.7618282
+2713307369.jpg,Healthy,Cassava Bacterial Blight (CBB),0.95406336
+3652860388.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6763461
+645203852.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.59189355
+3196839385.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.61756814
+3741168853.jpg,Cassava Bacterial Blight (CBB),Healthy,0.9758553
+6477704.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9426134
+4068398781.jpg,Healthy,Cassava Bacterial Blight (CBB),0.891418
+3388237026.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9541387
+2684339934.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.59865594
+4091663475.jpg,Cassava Bacterial Blight (CBB),Healthy,0.501856
+3563080812.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7305811
+3308428199.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.98904383
+3504608499.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.48561934
+1419674728.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.82189244
+1939567096.jpg,Cassava Mosaic Disease (CMD),Healthy,0.57088023
+1579937444.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.52555144
+4253761974.jpg,Healthy,Cassava Mosaic Disease (CMD),0.43884638
+2084711314.jpg,Healthy,Cassava Green Mottle (CGM),0.64018154
+2780906480.jpg,Cassava Mosaic Disease (CMD),Healthy,0.510862
+3496438505.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.8979998
+3474657752.jpg,Cassava Bacterial Blight (CBB),Healthy,0.51966906
+1549044290.jpg,Healthy,Cassava Mosaic Disease (CMD),0.42645645
+1230729035.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.9246688
+435059376.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.9433171
+3459275499.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9810029
+806175300.jpg,Healthy,Cassava Green Mottle (CGM),0.8475514
+2932250281.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.6946269
+3236562372.jpg,Cassava Bacterial Blight (CBB),Healthy,0.9040969
+718077278.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.575093
+3247545226.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.5091733
+4137861888.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.8627631
+546421963.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.9256282
+2436214521.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.7866432
+3495209227.jpg,Cassava Bacterial Blight (CBB),Healthy,0.3923691
+1266269794.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.5932425
+2056839609.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.57308125
+3725984716.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.644221
+3743477008.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.57847416
+719168391.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.796002
+955794248.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.45227554
+857910285.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.41512075
+1587460202.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.4400385
+1182741554.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.48844606
+911861181.jpg,Healthy,Cassava Green Mottle (CGM),0.42111892
+1252242867.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.51664686
+2494192748.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8857233
+3494142100.jpg,Healthy,Cassava Mosaic Disease (CMD),0.870919
+1033962303.jpg,Healthy,Cassava Green Mottle (CGM),0.4374336
+1434200283.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8203297
+281999383.jpg,Healthy,Cassava Bacterial Blight (CBB),0.93077385
+3462734747.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.7194762
+3276950073.jpg,Cassava Mosaic Disease (CMD),Healthy,0.73762786
+1442929249.jpg,Cassava Mosaic Disease (CMD),Healthy,0.46328208
+2595356168.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5266943
+125703440.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.93313384
+501215014.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.9035179
+3524470850.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.97518694
+2279252876.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.87346166
+291053926.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.5914649
+1130201707.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.7211286
+1044411903.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.70328677
+2415642544.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.510656
+1560284085.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.8529998
+414587008.jpg,Cassava Mosaic Disease (CMD),Healthy,0.49207342
+440064041.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.44845557
+1365612235.jpg,Healthy,Cassava Mosaic Disease (CMD),0.99800605
+786134670.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5927413
+3722626623.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.9999267
+3362755131.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5109268
+3457201271.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9030119
+3977320696.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.5982167
+3271797853.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6136069
+2839492411.jpg,Cassava Green Mottle (CGM),Healthy,0.46576124
+1057462029.jpg,Cassava Bacterial Blight (CBB),Healthy,0.52610785
+261391289.jpg,Cassava Green Mottle (CGM),Healthy,0.3767901
+3867608934.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.97436213
+307490334.jpg,Cassava Mosaic Disease (CMD),Healthy,0.74325335
+2116832558.jpg,Healthy,Cassava Bacterial Blight (CBB),0.87553716
+4054666662.jpg,Healthy,Cassava Green Mottle (CGM),0.7009168
+1381222280.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.4784262
+3988908835.jpg,Cassava Bacterial Blight (CBB),Healthy,0.9616471
+85453943.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.9730132
+1020423203.jpg,Cassava Mosaic Disease (CMD),Healthy,0.46999037
+1301200237.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5294969
+3229042253.jpg,Cassava Mosaic Disease (CMD),Healthy,0.3263056
+4103433070.jpg,Healthy,Cassava Mosaic Disease (CMD),0.50056624
+542875481.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.4410046
+3229676096.jpg,Healthy,Cassava Mosaic Disease (CMD),0.90867573
+1433930335.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.59999096
+1556792485.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.76689
+1611662564.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.51016533
+1064129080.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.67718804
+226533928.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.7258769
+2718170987.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.77785504
+3822534983.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.88242775
+1378549599.jpg,Healthy,Cassava Mosaic Disease (CMD),0.503375
+2986428474.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5689963
+963450221.jpg,Healthy,Cassava Bacterial Blight (CBB),0.66530156
+2406746609.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.31989744
+1534401639.jpg,Cassava Mosaic Disease (CMD),Healthy,0.35214186
+186024899.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.6964981
+2350465175.jpg,Cassava Green Mottle (CGM),Healthy,0.3909823
+2601453932.jpg,Cassava Green Mottle (CGM),Healthy,0.9892498
+1260599331.jpg,Cassava Green Mottle (CGM),Healthy,0.7938624
+3548238505.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.48988807
+2504984350.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.4905192
+3027631141.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.8840312
+1147474861.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5909927
+1124255421.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.7437281
+872590456.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.7044548
+623631977.jpg,Healthy,Cassava Green Mottle (CGM),0.5599777
+1815147513.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.70269865
+296895333.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.81889033
+262606974.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.45510074
+1639780135.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8330945
+828472143.jpg,Healthy,Cassava Green Mottle (CGM),0.8103184
+1572324066.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.36488837
+3843185682.jpg,Cassava Mosaic Disease (CMD),Healthy,0.8947485
+2103640329.jpg,Cassava Green Mottle (CGM),Healthy,0.55831605
+2437198013.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.54840773
+759559409.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.75687504
+1654789179.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8094123
+2751319836.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6274905
+1931488881.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.9181878
+2908034482.jpg,Healthy,Cassava Mosaic Disease (CMD),0.44337842
+849182498.jpg,Healthy,Cassava Mosaic Disease (CMD),0.6086357
+3487867690.jpg,Healthy,Cassava Mosaic Disease (CMD),0.7096154
+1541021369.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.91126156
+792936600.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7970224
+2948559947.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.7157439
+1518949710.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.81574875
+573623784.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5843407
+2133487069.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.48334295
+273150716.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.49882948
+897925605.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8335233
+564511381.jpg,Cassava Bacterial Blight (CBB),Healthy,0.5100919
+90670123.jpg,Healthy,Cassava Mosaic Disease (CMD),0.9757717
+1966385524.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.42126703
+301572737.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.8117013
+232455109.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8502679
+1299442240.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.42789367
+2333207631.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5158235
+3890031422.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7697574
+21962653.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.7558866
+3015759657.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.75222075
+2758929090.jpg,Cassava Green Mottle (CGM),Healthy,0.5488709
+3985545704.jpg,Cassava Green Mottle (CGM),Healthy,0.5125553
+3971597689.jpg,Cassava Mosaic Disease (CMD),Healthy,0.67928594
+3968955392.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.9595532
+2948340092.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.7959067
+2468020600.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8259237
+9516242.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7381873
+2839558739.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.7255996
+860415279.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5409057
+640157848.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.40631562
+922000226.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.57589686
+215392148.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.44368383
+2984109922.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7020306
+2299892623.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.7596067
+1258505000.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5669149
+155007305.jpg,Cassava Green Mottle (CGM),Healthy,0.7758339
+2203540560.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.7452746
+2066344350.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.59070396
+430916626.jpg,Cassava Bacterial Blight (CBB),Healthy,0.3699637
+2354424014.jpg,Cassava Bacterial Blight (CBB),Healthy,0.59334
+1150408914.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.7572431
+2671639707.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8752204
+476012362.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.8996904
+674703368.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.4023373
+1695533012.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5204424
+2694111993.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.56815857
+3319077836.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.8619007
+2785296630.jpg,Cassava Mosaic Disease (CMD),Healthy,0.8355239
+4280523848.jpg,Cassava Mosaic Disease (CMD),Healthy,0.50135726
+4286158151.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.9874444
+3817468539.jpg,Cassava Green Mottle (CGM),Healthy,0.86866874
+431419127.jpg,Cassava Green Mottle (CGM),Healthy,0.39060116
+1196700830.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.45649555
+3689984405.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6225743
+87470037.jpg,Cassava Mosaic Disease (CMD),Healthy,0.4168485
+2128717413.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.70565444
+2978748370.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5000932
+83870062.jpg,Healthy,Cassava Bacterial Blight (CBB),0.61282533
+1601764877.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.5455966
+4114788959.jpg,Cassava Green Mottle (CGM),Healthy,0.81182426
+1118164655.jpg,Healthy,Cassava Green Mottle (CGM),0.70047957
+3452098908.jpg,Healthy,Cassava Bacterial Blight (CBB),0.56006587
+2672830636.jpg,Healthy,Cassava Bacterial Blight (CBB),0.77037543
+738656611.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.44498518
+616889374.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.86236906
+3168989288.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.7450623
+1644503085.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9616545
+1654084150.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.99967015
+1048581072.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.35651177
+1418896988.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.8599072
+1020387881.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.56609297
+3652439351.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8159224
+354906125.jpg,Cassava Mosaic Disease (CMD),Healthy,0.7239049
+3882450563.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.58322126
+3539750453.jpg,Cassava Mosaic Disease (CMD),Healthy,0.51569355
+1691885163.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.54380953
+3851259457.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.33102146
+2560138372.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.60469127
+3571912380.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.39522174
+3819082104.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.77996016
+4140015912.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.96271074
+3023855128.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.50549453
+3165854835.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.47317526
+2250996072.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.5739754
+484625436.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6758037
+1099870140.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.9776783
+4280698838.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7663811
+3362714719.jpg,Cassava Green Mottle (CGM),Healthy,0.53215784
+1595141360.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.37180355
+2305707140.jpg,Cassava Mosaic Disease (CMD),Healthy,0.52195287
+542067115.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9555811
+3924271775.jpg,Healthy,Cassava Green Mottle (CGM),0.9814641
+1799764071.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.72104496
+920600492.jpg,Cassava Green Mottle (CGM),Healthy,0.4720941
+3111312039.jpg,Cassava Bacterial Blight (CBB),Healthy,0.71631193
+3558035737.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.72483826
+1983454737.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.48801073
+1761652043.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5395118
+1170720367.jpg,Healthy,Cassava Bacterial Blight (CBB),0.75401163
+4232654944.jpg,Cassava Green Mottle (CGM),Healthy,0.5329436
+1847901285.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.5420488
+1553303103.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.90057534
+3738414390.jpg,Cassava Green Mottle (CGM),Healthy,0.4251652
+1553857773.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.58037937
+4184062100.jpg,Cassava Green Mottle (CGM),Healthy,0.76097625
+1652157522.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.71056443
+269713568.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.8509843
+2028369861.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.72681624
+2016298412.jpg,Cassava Mosaic Disease (CMD),Healthy,0.40012416
+2455854003.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.68420535
+2581730862.jpg,Cassava Mosaic Disease (CMD),Healthy,0.8265093
+3345225500.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.47431257
+1271824448.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.5198355
+1242670856.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.5870036
+3401893530.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.9822686
+3590341908.jpg,Cassava Mosaic Disease (CMD),Healthy,0.40014914
+74548158.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.38343996
+1893906773.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.6314086
+3383147575.jpg,Healthy,Cassava Bacterial Blight (CBB),0.99378467
+3926359515.jpg,Healthy,Cassava Green Mottle (CGM),0.49605873
+2753076252.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7433472
+3739341345.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5235097
+2806021040.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8034572
+1321561951.jpg,Healthy,Cassava Green Mottle (CGM),0.9407591
+3720541939.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.6736523
+4205544766.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.43723974
+4074718278.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.614089
+1222634459.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.6751953
+1101952886.jpg,Cassava Bacterial Blight (CBB),Healthy,0.6528195
+2514027748.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7110597
+2489013604.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.4106601
+2953610226.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.8869846
+1878129720.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.42361242
+3820517266.jpg,Healthy,Cassava Green Mottle (CGM),0.7869969
+360706290.jpg,Healthy,Cassava Green Mottle (CGM),0.9708945
+847610100.jpg,Cassava Mosaic Disease (CMD),Healthy,0.8419445
+116338302.jpg,Healthy,Cassava Green Mottle (CGM),0.54338324
+2247595260.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.9162053
+1303082197.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.4214452
+631309846.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.58941835
+1326064660.jpg,Healthy,Cassava Bacterial Blight (CBB),0.97677225
+3782836745.jpg,Cassava Mosaic Disease (CMD),Healthy,0.49399483
+2704051934.jpg,Healthy,Cassava Bacterial Blight (CBB),0.47233057
+1502308703.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9627238
+1391377544.jpg,Cassava Bacterial Blight (CBB),Healthy,0.68555814
+1823201205.jpg,Healthy,Cassava Green Mottle (CGM),0.3612678
+664583876.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.40419897
+2457479781.jpg,Cassava Bacterial Blight (CBB),Healthy,0.49356797
+2717129685.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9312766
+3186269269.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.37725705
+3838283693.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6091205
+3222591815.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5263232
+3250565385.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8450075
+1009126931.jpg,Healthy,Cassava Green Mottle (CGM),0.75765795
+1446872004.jpg,Cassava Bacterial Blight (CBB),Healthy,0.86113095
+2196411231.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.40962112
+127665486.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.53920096
+997651546.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9019051
+4248249660.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.8853873
+2454437891.jpg,Healthy,Cassava Bacterial Blight (CBB),0.903588
+1226905166.jpg,Healthy,Cassava Mosaic Disease (CMD),0.4518429
+17774752.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8217574
+3602830290.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.3944967
+1932604522.jpg,Cassava Mosaic Disease (CMD),Healthy,0.47816983
+1469175825.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.74898756
+1909629301.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.95429087
+580293785.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7105149
+3909196241.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6929597
+1200696605.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.41223627
+3964194408.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.5895581
+987636835.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.32355133
+1468956117.jpg,Cassava Mosaic Disease (CMD),Healthy,0.6204545
+648328136.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.48894686
+2864427141.jpg,Cassava Mosaic Disease (CMD),Healthy,0.6329803
+2940098090.jpg,Cassava Green Mottle (CGM),Healthy,0.83554775
+3638262712.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6322493
+451825559.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.6890732
+1114918862.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5573156
+1308234304.jpg,Healthy,Cassava Mosaic Disease (CMD),0.66524506
+3247553763.jpg,Healthy,Cassava Green Mottle (CGM),0.5726962
+490603548.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.8356012
+2391557874.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.45985833
+3506387687.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9948605
+1588493450.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6737212
+1369694663.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.97574735
+2571283746.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.85050017
+3951490557.jpg,Cassava Mosaic Disease (CMD),Healthy,0.507916
+2946421028.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.65340805
+1601382474.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.6533938
+2849259424.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6317782
+3275347756.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.91284746
+2724554893.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.48643458
+3477094015.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.72975105
+10459387.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.8569944
+4288246700.jpg,Healthy,Cassava Bacterial Blight (CBB),0.8304996
+2872930552.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9965784
+2893323611.jpg,Healthy,Cassava Mosaic Disease (CMD),0.5056036
+1093908406.jpg,Healthy,Cassava Green Mottle (CGM),0.4850056
+1041666046.jpg,Cassava Green Mottle (CGM),Healthy,0.91126907
+2816014823.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.7626626
+1968070287.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.6711148
+1822682006.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.4466796
+72925791.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.395489
+3567018385.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.7543103
+1720212686.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.8671007
+272311882.jpg,Cassava Mosaic Disease (CMD),Healthy,0.58745277
+896983896.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.975162
+42290082.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.4152767
+3253799470.jpg,Cassava Green Mottle (CGM),Healthy,0.639761
+3887762313.jpg,Cassava Bacterial Blight (CBB),Healthy,0.48884252
+2237969004.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.5533112
+2959800019.jpg,Cassava Bacterial Blight (CBB),Healthy,0.44401178
+4083711449.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9384282
+1091869695.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.927418
+388808106.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.3210643
+2936101260.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.7303291
+2078445415.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5074885
+2229847111.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.9036456
+2771434768.jpg,Cassava Green Mottle (CGM),Healthy,0.54707867
+127742871.jpg,Healthy,Cassava Bacterial Blight (CBB),0.44351184
+3011889571.jpg,Cassava Mosaic Disease (CMD),Healthy,0.37598482
+3776128895.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.4434643
+2977198374.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5581311
+3270798775.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6324291
+824811574.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.44555995
+2722971247.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.4537347
+2191616657.jpg,Healthy,Cassava Mosaic Disease (CMD),0.990386
+64610911.jpg,Healthy,Cassava Mosaic Disease (CMD),0.58980113
+2421584728.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.46858773
+3452736649.jpg,Cassava Bacterial Blight (CBB),Healthy,0.61954224
+790574591.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6142391
+2703905057.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.9907672
+948836344.jpg,Healthy,Cassava Green Mottle (CGM),0.73829705
+1436413250.jpg,Healthy,Cassava Bacterial Blight (CBB),0.6785487
+3121774796.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.42100886
+1686082281.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.5390006
+170892269.jpg,Healthy,Cassava Mosaic Disease (CMD),0.9144196
+1161877959.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5896672
+1395866975.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.7260302
+3198640904.jpg,Healthy,Cassava Mosaic Disease (CMD),0.98389304
+3899993787.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.8196008
+1782983052.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.63175327
+2099908294.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.59003574
+2409798912.jpg,Healthy,Cassava Green Mottle (CGM),0.88450354
+3125021346.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.40780792
+686958649.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.55671483
+3540255449.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.53023416
+783577117.jpg,Cassava Mosaic Disease (CMD),Healthy,0.9245014
+1331106068.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.6753306
+2181796105.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.49575898
+3782101315.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.74864554
+1251480782.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9588016
+2238082787.jpg,Cassava Mosaic Disease (CMD),Healthy,0.44894475
+2421660747.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.963481
+2260577745.jpg,Healthy,Cassava Bacterial Blight (CBB),0.64989704
+3595436298.jpg,Cassava Mosaic Disease (CMD),Healthy,0.43818036
+3969588604.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.67169535
+3997023855.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.6674047
+1330510466.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.6225879
+3713301383.jpg,Healthy,Cassava Mosaic Disease (CMD),0.45519814
+3279881598.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.83803165
+1331226893.jpg,Healthy,Cassava Bacterial Blight (CBB),0.4966384
+1962378954.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.8478874
+678743430.jpg,Cassava Green Mottle (CGM),Cassava Brown Streak Disease (CBSD),0.70626193
+1721889897.jpg,Healthy,Cassava Mosaic Disease (CMD),0.7957458
+1734635287.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.3190312
+1558894441.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.5082884
+1574353431.jpg,Healthy,Cassava Bacterial Blight (CBB),0.77392066
+3868810256.jpg,Cassava Mosaic Disease (CMD),Healthy,0.565751
+2673946061.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.66276205
+3378948686.jpg,Cassava Green Mottle (CGM),Healthy,0.96064216
+3630015138.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.9457686
+2700385487.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7004503
+2872388134.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.6434652
+3617734118.jpg,Cassava Mosaic Disease (CMD),Healthy,0.33739778
+4019067935.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.4514499
+1622379223.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.54945225
+144323754.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.9320603
+3612201451.jpg,Cassava Green Mottle (CGM),Healthy,0.7399809
+3151692315.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5512821
+1026511145.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.40658578
+2884361.jpg,Cassava Mosaic Disease (CMD),Healthy,0.5734708
+290569488.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.49116838
+3117063498.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.68042344
+3652003929.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.85882276
+195648573.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.6136368
+4149113936.jpg,Cassava Green Mottle (CGM),Healthy,0.7543447
+1850706779.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.90834236
+1812275285.jpg,Cassava Green Mottle (CGM),Cassava Bacterial Blight (CBB),0.8523767
+1973109559.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.62332064
+1372417670.jpg,Healthy,Cassava Bacterial Blight (CBB),0.6250132
+291050311.jpg,Cassava Bacterial Blight (CBB),Healthy,0.59631336
+4107485206.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6797276
+961575661.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.53574395
+2140735001.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.24385211
+4088464085.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.7064755
+3203412332.jpg,Cassava Bacterial Blight (CBB),Healthy,0.80164236
+2098616985.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.93655145
+3034143541.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.90570205
+1226235183.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.6494865
+2886723600.jpg,Healthy,Cassava Bacterial Blight (CBB),0.36790967
+106785011.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.95696294
+1047958369.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5891599
+3919261355.jpg,Healthy,Cassava Bacterial Blight (CBB),0.7595323
+4171305326.jpg,Cassava Bacterial Blight (CBB),Healthy,0.5097605
+424246187.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.7182656
+442164564.jpg,Cassava Bacterial Blight (CBB),Cassava Green Mottle (CGM),0.6065747
+2078711421.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.71320313
+983014273.jpg,Healthy,Cassava Bacterial Blight (CBB),0.5904274
+3079888701.jpg,Healthy,Cassava Bacterial Blight (CBB),0.44919083
+1414761827.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.6179415
+1870627097.jpg,Healthy,Cassava Brown Streak Disease (CBSD),0.4981265
+2823798822.jpg,Cassava Green Mottle (CGM),Healthy,0.45943296
+3575391896.jpg,Cassava Bacterial Blight (CBB),Healthy,0.5176184
+2854111497.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.4027761
+1367847379.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.7677203
+1556505679.jpg,Cassava Mosaic Disease (CMD),Cassava Bacterial Blight (CBB),0.44329423
+2292154193.jpg,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),0.9419249
+2330997994.jpg,Cassava Mosaic Disease (CMD),Healthy,0.77941775
+1714701345.jpg,Cassava Brown Streak Disease (CBSD),Cassava Bacterial Blight (CBB),0.5784182
+1854709315.jpg,Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),0.39326185
+114198015.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.630349
+2497160011.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.57425153
+4153204450.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.573141
+1220197.jpg,Cassava Mosaic Disease (CMD),Cassava Green Mottle (CGM),0.5681508
+2574523896.jpg,Cassava Brown Streak Disease (CBSD),Cassava Mosaic Disease (CMD),0.92192405
+1110416706.jpg,Cassava Mosaic Disease (CMD),Healthy,0.66984147
+2534462886.jpg,Cassava Mosaic Disease (CMD),Healthy,0.98994195
+1849702886.jpg,Cassava Bacterial Blight (CBB),Cassava Mosaic Disease (CMD),0.61541927
+4203927586.jpg,Cassava Mosaic Disease (CMD),Healthy,0.77710783
+1181678723.jpg,Cassava Bacterial Blight (CBB),Healthy,0.7752501
+597389720.jpg,Cassava Green Mottle (CGM),Healthy,0.45457998
+1991094852.jpg,Healthy,Cassava Bacterial Blight (CBB),0.9935847
+2235889305.jpg,Healthy,Cassava Green Mottle (CGM),0.90157235
+4254996610.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.6573415
+2999997152.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.5963863
+2840412026.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.63896054
+3957562076.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.60242444
+445058593.jpg,Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),0.9553364
+2705189411.jpg,Cassava Brown Streak Disease (CBSD),Healthy,0.3386517
+2579865055.jpg,Cassava Mosaic Disease (CMD),Cassava Brown Streak Disease (CBSD),0.5419223
