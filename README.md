@@ -153,7 +153,7 @@ This generates:
 🔍 Error Analysis
 
 To analyse misclassified samples and minority class errors:
-```bash
+```
 Generated outputs:
 
 - misclassified_examples.png
