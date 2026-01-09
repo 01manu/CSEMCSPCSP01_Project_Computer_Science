@@ -118,12 +118,14 @@ Copy code
 ```bash
 git clone https://github.com/your-username/cassava-leaf-disease-detection.git
 cd cassava-leaf-disease-detection
+```
 2️⃣ Create a virtual environment (recommended)
 bash
 Copy code
 python -m venv .venv
 source .venv/bin/activate      # Linux/Mac
 .venv\Scripts\activate         # Windows
+```
 3️⃣ Install dependencies
 bash
 Copy code
