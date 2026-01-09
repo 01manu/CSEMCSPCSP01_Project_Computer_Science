@@ -120,9 +120,20 @@ git clone https://github.com/your-username/cassava-leaf-disease-detection.git
 cd cassava-leaf-disease-detection
 
 ```
-###2️⃣ Create a virtual environment (recommended)
+2️⃣ Create a virtual environment (recommended)
 ```bash
 python -m venv .venv
 source .venv/bin/activate      # Linux / Mac
 .venv\Scripts\activate         # Windows
+
+```
+🏋️ Model Training
+Ensure the dataset is placed inside the data/ directory, then run:
+```bash
+python src/train.py
+```
+The trained model will be saved as:
+```bash
+outputs/best.keras
+
 
