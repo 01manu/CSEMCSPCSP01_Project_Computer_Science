@@ -126,7 +126,7 @@ python -m venv .venv
 source .venv/bin/activate      # Linux / Mac
 .venv\Scripts\activate         # Windows
 
-```
+---
 🏋️ Model Training
 Ensure the dataset is placed inside the data/ directory, then run:
 ```bash
@@ -135,5 +135,65 @@ python src/train.py
 The trained model will be saved as:
 ```bash
 outputs/best.keras
+```
+📊 Model Evaluation
 
+To evaluate the trained model:
+```bash
+python src/evaluate.py
+```
+This generates:
+
+- Classification report
+- Confusion matrix
+- Accuracy and F1-scores
+
+---
+
+🔍 Error Analysis
+
+To analyse misclassified samples and minority class errors:
+```bash
+Generated outputs:
+
+- misclassified_examples.png
+- misclassified_samples.csv
+- error_summary_by_class.csv
+
+---
+🌐 Deployment (Streamlit Application)
+
+Run the Streamlit app using:
+
+```bash
+streamlit run app/streamlit_app.py
+
+```
+## Application Features:
+
+- Upload cassava leaf image (JPG/PNG)
+- Predict disease class
+- Display confidence score
+- Show Top-3 class probabilities
+- Simple and intuitive user interface
+
+---
+## 📈 Results Summary
+
+Overall Accuracy: ~81%
+
+CMD F1-score: 0.92
+
+Strong performance on real-world field images
+
+Errors mainly occur for minority classes and visually similar symptoms
+
+---
+## ⚠️ Limitations
+
+Class imbalance affects minority class performance
+
+Visual similarity between certain disease symptoms
+
+CPU-only deployment leads to slower inference
 
